@@ -1,0 +1,52 @@
+* {
+    width:auto;
+    height:auto;
+    margin:0px;
+    padding:0px;
+    font-family:"Times New Roman", arial, sans-serif;
+    background-color:rgb(237, 36, 36);
+}
+
+nav {
+    height:30px;
+    width:650px;
+    padding:15px;
+}
+
+.inline {
+    display:inline;
+}
+
+nav h1,
+nav p {
+    display:inline;
+}
+nav h1{
+    margin-left:30px;
+}
+
+p#one {
+    margin-left:350px;
+}
+p#two,
+p#three {
+    margin-left:10px;
+}
+
+img.one {
+    width: 100%;
+    height: 500;
+}
+
+div form,
+div form input {
+    background-color:white;
+}
+div form {
+    text-align:center;
+    margin:15px auto auto auto;
+    padding:0px;
+    height:auto;
+    width:250px;
+    border:10px;
+}
